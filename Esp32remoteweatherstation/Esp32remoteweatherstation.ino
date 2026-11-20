@@ -5,8 +5,8 @@
 #include <Adafruit_BMP280.h>
 
 // ---------- Your settings ----------
-const char* WIFI_SSID = "Yelan Musk";
-const char* WIFI_PASS = "bikshenet2";
+const char* WIFI_SSID = "Wifi name";
+const char* WIFI_PASS = "Password of your wifi";
 
 #define DHT_PIN   4
 #define DHT_TYPE  DHT11          // change to DHT22 if you have that one
